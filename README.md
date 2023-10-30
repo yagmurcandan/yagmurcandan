@@ -1,4 +1,5 @@
-Hi there 👋
+### Hi there 👋
+
 ### I'm Yağmur Hafızoğlu Candan
 
 👀 I am excitedly progressing towards becoming a FrontEnd Developer.
