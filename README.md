@@ -3,7 +3,7 @@
 
 ### I'm Yağmur!
 
-👀 I am excitedly progressing towards becoming a FrontEnd Developer.
+👀 I am excitedly progressing towards becoming a Frontend Developer.
 
 🌱 I’m currently learning React. 
 
